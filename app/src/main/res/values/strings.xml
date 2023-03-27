@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="welcome_to_dice_roller">Dice Roller</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+
+    <string name="name">Pamudi Abeykoon</string>
+    <string name="id">20210287</string>
+    <string name="declare">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="score_button">Score</string>
+    <string name="throw_button">Throw</string>
+    <string name="human_score">Human Score</string>
+    <string name="computer_score">Computer Score</string>
+    <string name="reroll_button">Reroll</string>
+    <string name="computer_player">Computer</string>
+    <string name="human_player">You</string>
+    <string name="winning_score">Winning Score</string>
+    <string name="default_score">101</string>
+    <string name="reset_button">Reset</string>
+    <string name="custom_winning_score_button">Custom winning score</string>
+    <string name="set_a_winning_score">Set a Winning Score</string>
+    <string name="you_won">You Won!</string>
+    <string name="you_lost">You Lost</string>
+    <string name="set_target_score">Set Target Score: </string>
+    <string name="die_2">die2</string>
+    <string name="die_4">die4</string>
+    <string name="die_5">die5</string>
+    <string name="die_3">die3</string>
+    <string name="die_1">die1</string>
+    <string name="reset_score">Reset Score</string>
+</resources>
